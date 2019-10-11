@@ -1,0 +1,23 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxinyong12/node-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxinyong12/node-redis/issues"
+  },
+  "homepage": "https://github.com/zhangxinyong12/node-redis#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
